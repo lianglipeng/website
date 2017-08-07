@@ -1,16 +1,5 @@
-111111111111dfsfsdf
-sdfsfdsdf
-sfdsdfsdf
-t
-dsdsdsd787878sdfsdf
-sdfsdf
-sdfsdf
-asdasds
-sdfsdfsdf
-sdfsdfs
-sdfsdfsdf
-niha wecho 223;die;
-i
-999999999999
-444444
-8888888888
+$a=1;
+$b=2;
+if($a>$b){
+echo '参数非法';
+}
