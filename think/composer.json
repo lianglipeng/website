@@ -16,7 +16,9 @@
         }
     ],
     "require": {
-        "topthink/framework": "5.0.*"
+        "topthink/framework": "5.0.*",
+        "guzzlehttp/guzzle": "^6.2",
+        "monolog/monolog": "1.2.*"
     },
     "autoload": {
         "psr-4": {

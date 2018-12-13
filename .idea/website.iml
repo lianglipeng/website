@@ -4,6 +4,12 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/think/application" isTestSource="false" packagePrefix="app\" />
       <excludeFolder url="file://$MODULE_DIR$/think/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/think/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/think/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/think/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/think/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/think/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/think/vendor/ralouphie/getallheaders" />
       <excludeFolder url="file://$MODULE_DIR$/think/vendor/topthink/think-installer" />
     </content>
     <orderEntry type="inheritedJdk" />
